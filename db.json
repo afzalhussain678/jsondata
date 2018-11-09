@@ -1,0 +1,41 @@
+{  
+   "account":"27282828",
+   "configid":"DIY-S776",
+   "items":[  
+      {  
+         "itemid":"logo123",
+         "sku":"8348863",
+         "quantity":1
+      },
+      {  
+         "itemid":"logo456",
+         "sku":"217049",
+         "quantity":1
+      },
+      {  
+         "itemid":"logo789",
+         "sku":"2728559",
+         "quantity":2
+      } ,   
+      {  
+         "itemid":"businessCard456",
+         "sku":"678765",
+         "quantity":4,
+         "upcharge":[  
+            {  
+               "sku":"887228"
+            }
+         ]
+      },     
+      {  
+         "itemid":"businessCard123",
+         "sku":"789876",
+         "quantity":2,
+         "upcharge":[  
+            {  
+               "sku":"789876"
+            }
+         ]
+      }
+   ]
+}
